@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FURI_Thailand</string>
+    <string name="title">項目を選択してください</string>
+    <string name="search">検索ワードを入力してください</string>
+    <string-array name="situation_list">
+        <item>交通・移動/การเคลื่อนไหว</item>
+        <item>ショッピング/ช้อปปิ้ง</item>
+        <item>単語・用語/คำ</item>
+        <item>夜遊び/เล่นกลางคืน</item>
+    </string-array>
+    <string-array name="access_list">
+        <item name="go_1">%1$dに行きたいです</item>
+        <item name="question_1">%1$dにはどうすれば行けますか？</item>
+        <item name="question_2">%1$dに帰るにはどうせれば良いですか？</item>
+    </string-array>
+    <string-array name="shopping_list">
+        <item name="buy_1">これをください</item>
+        <item name="discount_1">安くなりませんか？</item>
+        <item name="discount_2">%1$d買うので%2$dバーツ安くなりませんか？</item>
+        <item name="question_1">これはいくらですか？</item>
+    </string-array>
+    <string-array name="word_list">
+        <item name="word_money_1">バーツ</item>
+    </string-array>
+    <string-array name="night_list">
+        <item name="negotiation_1">今夜どうですか？</item>
+    </string-array>
+</resources>
